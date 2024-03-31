@@ -1,5 +1,5 @@
 {
-  "name": "zwbmmlist",
+  "name": "zhlist",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwb521fang/zwbmmlist.git"
+    "url": "git+https://github.com/zwb521fang/zhlist.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -19,13 +19,27 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zwbmmlist/issues"
+    "url": "https://github.com/zwb521fang/zhlist/issues"
   },
-  "homepage": "https://github.com/zwb521fang/zwbmmlist#readme",
+  "homepage": "https://github.com/zwb521fang/zhlist#readme",
   "dependencies": {
+    "fangzwb2": "^1.0.0",
+    "fangzwb1": "^1.0.0",
+    "fangzwb": "^1.0.0",
+    "mmzwbmm3": "^1.0.0",
+    "mmzwbmm2": "^1.0.0",
+    "mmzwbmm1": "^1.0.0",
+    "mmzwbmm": "^1.0.0",
+    "mmzwb1": "^1.0.0",
+    "mm2022": "^1.0.0",
+    "mm2021": "^1.0.0",
+    "mm2020": "^1.0.0",
+    "mmman": "^1.0.0",
+    "mannewlist": "^1.0.0",
+    "mannew": "^1.0.0",
+    "listmannew": "^1.0.0",
     "zwbutils": "^1.0.2",
     "zwblist": "^1.0.0",
-    "zwblist2": "^1.0.0",
     "zwblist3": "^1.0.1",
     "zwblist4": "^1.0.0",
     "zwblist5": "^1.0.0",
@@ -34,6 +48,9 @@
     "zwbfang": "^1.0.0",
     "zwbfang1": "^1.0.0",
     "mmlist": "^1.0.0",
+    "listman": "^1.0.0",
+    "zhlistnew": "^1.0.0",
+    "listnew": "^1.0.0",
     "wiki-client1": "^0.29.1",
     "vue-element-admintest": "^4.2.1",
     "bip39": "^3.1.0",
